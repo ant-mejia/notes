@@ -12,3 +12,8 @@
 + Working Directory holds all the actual files in your project
 + Index is the staging area for modified files
 + HEAD points to the most recent commit or current branch
+
+_Pull from Main Master_
+```
+git pull upstream master
+````
