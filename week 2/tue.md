@@ -28,7 +28,7 @@
 + map, filter, reduce return new arrays when called
 + `map` method applies a function to each element in array, does not mutate
 + `filter` method returns a new array with elements that have returned to `true` based on certain params
-+ 
++ `reduce` reduces the array to a single value and execites a provided function for each val of the array (from left to right). The return value of the function is stored in an accumulator(result/total).
 
 
 ###**OBJECTS**
