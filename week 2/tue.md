@@ -10,6 +10,19 @@
 + Discuss looping through arrays
 + Learn to use newer array methods
 
+
+###**ARRAYS**
+---------------------------------------
++ Arrays are list-like data types containing comma separated values
++ Useful for storing a sequence of data
++ Delcare arrays with brackets  `[]`
+`let friends = ['barry', 'joe', 'riley']`
++ Elements are stored inside an array
++ `arrName[index]`
++ `arrName.indexOf` returns the index of the first occurence of element, or -1 if not found 
++ `myArray.pop()` 
+
+
 ###**OBJECTS**
 ---------------------------------------
 + `let obj1 = {a: 1};`
@@ -29,4 +42,5 @@ let myObject = {
     }
 }
 ```
+
 
