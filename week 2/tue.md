@@ -23,7 +23,7 @@
 + `myArray.pop()` 
 + [Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
 + `array.forEach(function)` executes function for each element in array
-+ 
++ pass param op
 
 
 ###**OBJECTS**
