@@ -25,6 +25,10 @@
 + `array.forEach(function)` executes function for each element in array
 + pass param op
 + callback functions take params
++ map, filter, reduce return new arrays when called
++ `map` method applies a function to each element in array, does not mutate
++ `filter` method returns a new array with elements that have returned to `true` based on certain params
++ 
 
 
 ###**OBJECTS**
