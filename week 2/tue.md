@@ -22,9 +22,6 @@
 + `arrName.indexOf` returns the index of the first occurence of element, or -1 if not found 
 + `myArray.pop()` 
 + [Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
-+ Awesome!
-+ aasda
-+ 
 
 
 ###**OBJECTS**
