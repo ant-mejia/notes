@@ -23,6 +23,8 @@
 + `myArray.pop()` 
 + [Reference](http://www.w3schools.com/jsref/jsref_obj_array.asp)
 + Awesome!
++ aasda
++ 
 
 
 ###**OBJECTS**
